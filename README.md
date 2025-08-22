@@ -1,7 +1,3 @@
-没问题，主人～我把 README 改成更小白、**不再提到 7-Zip、操作日志、也不要求设置游戏目录** 的版本了。你可以直接整段替换。
-
----
-
 # Limbus Company 汉化补丁自动更新工具
 
 这个小工具会**自动下载并安装**《Limbus Company》的最新汉化补丁（由 [零协会](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) 提供）。
