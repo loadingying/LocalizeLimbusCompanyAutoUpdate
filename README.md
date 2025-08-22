@@ -19,8 +19,8 @@
 
 ## 开始使用（超简单）
 
-1. **放好文件**
-   把这些文件放在同一个文件夹里：
+1. **下载**
+   下载 [auto_update_v1.0.1.zip](https://github.com/loadingying/LocalizeLimbusCompanyAutoUpdate/releases/download/v1.0.1/auto_update_v1.0.1.zip)并解压到同一个文件夹里：
 
 * `auto_update.exe`（主程序）
 * `Register-AutoUpdate.ps1`（注册自动更新）
